@@ -1,4 +1,4 @@
-# DREADED-AI GPT
+# TESLAS-AI GPT
 
 ***This bot is created with the help of NodeJS and uses [Baileys](https://github.com/adiwajshing/Baileys)***
 
