@@ -31,5 +31,5 @@ $ node index.js
 ## License
 [MIT License](https://github.com/Fortunatusmokaya/DREADED-AI/blob/main/LICENSE)
 
-Copyright (c) 2023 Dreaded AI-ChatGpt
+Copyright (c) 2023 teslas AI-ChatGpt
 
