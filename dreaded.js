@@ -5,7 +5,7 @@ const chalk = require("chalk");
 const { Configuration, OpenAIApi } = require("openai");
 let setting = require("./Required.json");
 
-module.exports = dreaded = async (client, m, chatUpdate, store) => {
+module.exports = teslas = async (client, m, chatUpdate, store) => {
   try {
     var body =
       m.mtype === "conversation"
@@ -70,10 +70,10 @@ module.exports = dreaded = async (client, m, chatUpdate, store) => {
 
     if (isCmd2) {
       switch (command) {
-        case "help":
+        case "panel:
         case "menu":
 
-          m.reply(`DREADED CHATBOT AI
+          m.reply(`TESLAS CHATGPT AI
             
 CHATGPT CHATBOT
 Cmd: ${prefix}g
